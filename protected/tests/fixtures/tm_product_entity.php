@@ -1,0 +1,48 @@
+<?php
+
+return array(
+	/*
+	'sample1'=>array(
+		'product_name' => '',
+		'product_SEF' => '',
+		'product_weight' => '',
+		'product_def_category_ID' => '',
+		'product_description' => '',
+		'product_short_description' => '',
+		'product_SKU' => '',
+		'product_SEO_ID' => '',
+		'product_status' => '',
+		'product_quantity' => '',
+		'product_price' => '',
+		'product_wholesale_price' => '',
+		'product_reducetion' => '',
+		'product_reducetion_percent' => '',
+		'product_reduction_from' => '',
+		'product_reduction_to' => '',
+		'product_active' => '',
+		'product_create' => '',
+		'product_update' => '',
+	),
+	'sample2'=>array(
+		'product_name' => '',
+		'product_SEF' => '',
+		'product_weight' => '',
+		'product_def_category_ID' => '',
+		'product_description' => '',
+		'product_short_description' => '',
+		'product_SKU' => '',
+		'product_SEO_ID' => '',
+		'product_status' => '',
+		'product_quantity' => '',
+		'product_price' => '',
+		'product_wholesale_price' => '',
+		'product_reducetion' => '',
+		'product_reducetion_percent' => '',
+		'product_reduction_from' => '',
+		'product_reduction_to' => '',
+		'product_active' => '',
+		'product_create' => '',
+		'product_update' => '',
+	),
+	*/
+);
