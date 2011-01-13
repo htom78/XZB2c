@@ -1,0 +1,11 @@
+# For security reasons, Option followsymlinks cannot be overridden.
+#Options +FollowSymLinks
+Options +SymLinksIfOwnerMatch
+IndexIgnore */*
+RewriteEngine on
+RewriteCond %{REQUEST_FILENAME} !-f
+RewriteCond %{REQUEST_FILENAME} !-d
+RewriteCond $1 !^(robots\.txt|sitemap\.xml|livezilla)
+
+# otherwise forward it to index.php
+RewriteRule . index.php
